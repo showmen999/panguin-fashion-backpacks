@@ -1,0 +1,20 @@
+.logo-img
+{
+    width: 45%;
+}
+section
+{
+    background-color: #fffff4;
+}
+.buy-now-btn
+{
+    background-image: linear-gradient(to bottom, #443779 0%, #2a1e59 100%);
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 10px 27px;
+}
+.backpack-card
+{
+    border: 0;
+}
